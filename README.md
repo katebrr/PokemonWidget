@@ -10,4 +10,6 @@ All the widgets are configurable.
 
 Small widget has configuration of Pokemon.
 
+<img src="https://github.com/katebrr/PokemonWidget/assets/27740069/26556b06-fbfe-4fe5-ad1f-a9767bce183c" alt="Alt Text" height="600" />
+
 Medium and Large Widgets allow user to choose a type of pokemon and a pokemon based on this type.
