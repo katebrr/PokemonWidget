@@ -3,7 +3,7 @@ Creating a Pokemon Widget for iOS to check out WidgetKit and AppIntents API. Fet
 
 Widget UI is implemented for .systemSmall, .systemMedium and .systemLarge widget famillies.
 <img src="https://github.com/katebrr/PokemonWidget/assets/27740069/b52814f8-2f8d-4d62-a645-07afe37fe8fd" alt="Alt Text" height="600" />
-
+<img src="https://github.com/katebrr/PokemonWidget/assets/27740069/49e3873f-8d8c-421d-aeb1-dfe9a7829d8c" alt="Alt Text" height="600" />
 
 All the widgets are configurable.
 
