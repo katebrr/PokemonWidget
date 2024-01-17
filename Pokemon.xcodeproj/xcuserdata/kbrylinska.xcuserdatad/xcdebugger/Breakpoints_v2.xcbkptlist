@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1604D1DC-4B53-4DD6-98A9-ADAC845C0843"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A40CCECD-6E14-40A9-B3AD-4130D872C941"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PokemonWidget/Widget/PokemonTypeEntity.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "entities(for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A40CCECD-6E14-40A9-B3AD-4130D872C941 - 8377d5eb9a76d157"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for PokemonWidgetExtension.PokemonTypesQuery.entities(for: Swift.Array&lt;Foundation.UUID&gt;) async throws -&gt; Swift.Array&lt;PokemonWidgetExtension.PokemonTypeEntity&gt;"
+                  moduleName = "PokemonWidgetExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kbrylinska/Desktop/Workspace/Training/Pokemon/PokemonWidget/Widget/PokemonTypeEntity.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "A40CCECD-6E14-40A9-B3AD-4130D872C941 - 8377d5eb9a76d157"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for PokemonWidgetExtension.PokemonTypesQuery.entities(for: Swift.Array&lt;Foundation.UUID&gt;) async throws -&gt; Swift.Array&lt;PokemonWidgetExtension.PokemonTypeEntity&gt;"
+                  moduleName = "PokemonWidgetExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kbrylinska/Desktop/Workspace/Training/Pokemon/PokemonWidget/Widget/PokemonTypeEntity.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "256">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E90420B-0A4B-44C3-9D23-6D3D14E3BE42"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PokemonWidget/Widget/PokemonTypeEntity.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "suggestedEntities()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9E90420B-0A4B-44C3-9D23-6D3D14E3BE42 - 234be8eb359d3bf9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[1] = Stack Promoted from Box&gt; of closure #1 (Swift.Optional&lt;Swift.Array&lt;PokemonWidgetExtension.PokemonTypeEntity&gt;&gt;) -&gt; () in PokemonWidgetExtension.PokemonTypesQuery.suggestedEntities() async throws -&gt; Swift.Array&lt;PokemonWidgetExtension.PokemonTypeEntity&gt;"
+                  moduleName = "PokemonWidgetExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kbrylinska/Desktop/Workspace/Training/Pokemon/PokemonWidget/Widget/PokemonTypeEntity.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "9E90420B-0A4B-44C3-9D23-6D3D14E3BE42 - 12898c17802ac441"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for PokemonWidgetExtension.PokemonTypesQuery.suggestedEntities() async throws -&gt; Swift.Array&lt;PokemonWidgetExtension.PokemonTypeEntity&gt;"
+                  moduleName = "PokemonWidgetExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kbrylinska/Desktop/Workspace/Training/Pokemon/PokemonWidget/Widget/PokemonTypeEntity.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DBFC071F-C1D1-4EC3-BB90-327AE64AA1EE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PokemonWidget/Widget/PokemonTypeEntity.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "suggestedEntities()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
